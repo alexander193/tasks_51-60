@@ -24,7 +24,7 @@ public class task {
         System.out.println(longestNonrepeatingSubstring("abcda"));
         // Задача 58
         System.out.println(convertToRoman(999));
-        // Задача 58
+        // Задача 59
         System.out.println(formula("13 + 12 = 100 / 4 = 5 * 4 + 5 = 25"));
         // Задача 60
         System.out.println(palindromedescendant(23336014));
